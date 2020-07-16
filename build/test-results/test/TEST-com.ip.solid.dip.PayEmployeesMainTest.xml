@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ip.solid.dip.PayEmployeesMainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-07-16T22:39:40" hostname="DESKTOP-QA2NH3N" time="0.177">
+  <properties/>
+  <testcase name="testPaymentProcessor" classname="com.ip.solid.dip.PayEmployeesMainTest" time="0.177"/>
+  <system-out><![CDATA[Notified: Anna.Smith@globomanticshr.com
+Notified: Billy.Leach@globomanticshr.com
+Notified: Steve.jones@globomanticshr.com
+Notified: Magda.Iovan@globomanticshr.com
+Notified: John.Lee@globomanticshr.com
+Notified: Catherine.Allison@globomanticshr.com
+Total payments 5440
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
